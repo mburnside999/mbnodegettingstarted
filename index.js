@@ -17,4 +17,4 @@ app.listen(app.get('port'), function() {
   console.log('Node app is running on port', app.get('port'));
 });
 
-//my elegant changes made for testing the Heroku scratch org
+//my super elegant changes made for testing the Heroku scratch org
